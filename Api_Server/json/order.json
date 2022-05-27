@@ -1,0 +1,12 @@
+{
+    "order_id": 8004359122,
+    "products": [
+        {
+            "id": 2,
+            "product_name": "43 Piece dinner Set",
+            "product_price": 12.95,
+            "product_image": "/43_Piece_dinner_Set.png"
+        }
+    ],
+    "total_price": 259
+}
